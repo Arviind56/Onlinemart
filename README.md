@@ -1,0 +1,1 @@
+Online Shop Console Application offers both admin and customer functionalities in console . Admins can manage inventory, process orders, and monitor sales, while customers can browse products, place orders, and track their purchases. Additional features include secure login authentication, real-time stock updates
